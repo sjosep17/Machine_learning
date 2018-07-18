@@ -1,0 +1,19 @@
+Sunday,
+
+I have determined that we need to eliminate all LoanStatus = CANCLD.  CANCLD loans were never funded and skew the data. **Can you find out the Python Code to remove CANCLD from the dataset?**  After we do this, I believe that the results of CORR and COV calculations will be quite different.
+
+I have reformated the Illinois.csv file.
+**PLEASE REFORMAT THE FLORIDA.CSV, TEXAS.CSV AND NEWYORK.CSV FILES SO THEY ARE THE SAME AS THE ILLINOIS.CSV FILE.**
+
+The Illinois dataset has 483 loans charged-off (Defaulted) for loan funded between 2010-2017.
+Another observation is that there are 100's off loans that were charged-off after their maturity date, I believe that these loan could also skew the CORR and COV calculation.
+
+Also, need code that can provide the following output:
+
+Funding Year:     2010
+C/O Amt:          27,922
+App'd Amt:        43,022 (but C/O)
+Total App'd for
+    Funding Yr:   383,334
+    
+I have noticed that C/O tend to peak 4-5 years after the funding year.  Need code that can show this type of results.

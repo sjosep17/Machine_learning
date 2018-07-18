@@ -1,0 +1,42 @@
+WHO:	Francisco Galliano
+	Sunday Joseph
+
+
+WHAT:
+	Dataset:
+		SBA Loan information from 2010-1Q18
+		www.Data.gov/sba
+	Project:
+		Regressional analysis of loans that have defaulted and compare to
+		those loans that are still performing to determine the probability of 
+		default in the future.
+WHERE:
+	In class, at home, anywhere you like.
+WHY:
+	To showcase the new acquired skills
+HOW:
+	Python/Panda/GitHub/Jupiter Note/Scikit Learn/Matplotlib/Numpy
+	Tableau(only if license is received by 7/10/18.
+
+WHEN:
+	Data:
+		Data has been parse into 4 separate csv dataset:
+		1) Florida
+		2) Illinois
+		3) New York
+		4) Texas
+	Project:
+		7/07 - 	Structure the data for Scikit Learn
+		7/08 -	Fit/test data of defaulted loans by state.
+		7/09 -	Fit/test data of performing loans by state
+		7/10 -	Prepare pitch
+	Final Presentation:
+		7/17/2018
+		
+Grading:
+	Project Proposal: 	 5
+	Data Work: 		10
+	Machine Learning: 	 7
+	Project Work: 		15
+	Presentation: 		 8
+	Cogency:	 	 5
